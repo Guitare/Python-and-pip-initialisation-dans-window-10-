@@ -1,0 +1,7 @@
+Dans systeme /rechercher les variable environement :
+
+Dans le path : Entrer le chemin absolu de python
+puis pour pip : rajouter \Scripts 
+
+la commande pip ainsi que python seront disponible dans votre CMD ...
+
